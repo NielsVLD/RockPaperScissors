@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Q28wAMZyWlN1zxCPywd/to9tC465dPKA6vRud7ilWBpRyw+3E9seaGtflorltTrdFBlzZw0u7kFCCbrjQLQ7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niels\\source\\repos\\RockPaperScissors\\RockPaperScissors\\RockPaperScissors.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niels\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
